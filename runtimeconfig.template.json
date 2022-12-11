@@ -1,0 +1,10 @@
+{
+    "configProperties": {
+      "System.Drawing.EnableUnixSupport": true
+    }
+  }
+  
+
+//   ADD THE CODE ABOVE IF YOU ENCOUNTER THE ERROR BELOW
+
+// Unable to load shared library 'libgdiplus' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: liblibgdiplus: cannot open shared object file: No such file or directory          at System.Drawing.SafeNativeMethods.Gdip.GdiplusStartup(IntPtr& token, StartupInput& input, StartupOutput& output)          at System.Drawing.SafeNativeMethods.Gdip..cctor()          --- End of inner exception stack trace ---

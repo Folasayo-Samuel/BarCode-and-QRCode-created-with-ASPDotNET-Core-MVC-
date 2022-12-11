@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ahsOkSIFdWkzjEF1nM01V2aF2bkYG9mg5pPZVsJp5th2BiA7GuhfHlsCDcSRNkN9iOvFRF7Pwgm/2L1YZZO5bw==",
+  "success": true,
+  "projectFilePath": "/home/saint/Desktop/BarCodeQRCodeGenerate/BarCodeQRCodeGenerate.csproj",
+  "expectedPackageFiles": [
+    "/home/saint/.nuget/packages/barcodelib/2.3.0/barcodelib.2.3.0.nupkg.sha512",
+    "/home/saint/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/saint/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/home/saint/.nuget/packages/qrcoder/1.4.1/qrcoder.1.4.1.nupkg.sha512",
+    "/home/saint/.nuget/packages/system.drawing.common/5.0.1/system.drawing.common.5.0.1.nupkg.sha512",
+    "/home/saint/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
